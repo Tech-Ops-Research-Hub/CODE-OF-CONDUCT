@@ -1,12 +1,15 @@
 # CODE-OF-CONDUCT
 
 Code of Conduct
+
 Our Pledge
+
 We, as members, contributors, and leaders, pledge to make participation in our project and community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
 Our Standards
+
 Being respectful of differing opinions, viewpoints, and experiences.
 Showing empathy and kindness toward other people.
 Gracefully accepting constructive criticism.
@@ -32,6 +35,7 @@ Project maintainers are responsible for clarifying the standards of acceptable b
 Maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned with this Code of Conduct. They may also temporarily or permanently ban any contributor for behaviors that they deem inappropriate, threatening, offensive, or harmful.
 
 Scope
+
 This Code of Conduct applies within all community spaces, both online and offline. It applies when an individual is representing the community or its projects in public spaces, such as through social media posts or public events.
 
 Examples of community spaces include, but are not limited to:
@@ -39,7 +43,9 @@ Examples of community spaces include, but are not limited to:
 GitHub repositories and issue trackers.
 Communication channels such as Slack, Discord, or mailing lists.
 In-person events, conferences, and workshops.
+
 Enforcement
+
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at techopsinc2023@gmail.com. All complaints will be reviewed and investigated promptly and fairly.
 
 The project team is obligated to maintain confidentiality regarding the reporter of an incident. Further details of specific enforcement policies may be posted separately.
