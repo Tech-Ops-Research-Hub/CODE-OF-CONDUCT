@@ -26,6 +26,7 @@ Disruptive behavior that hinders constructive participation in the community.
 Other conduct which could reasonably be considered inappropriate in a professional setting.
 
 Our Responsibilities
+
 Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
 Maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned with this Code of Conduct. They may also temporarily or permanently ban any contributor for behaviors that they deem inappropriate, threatening, offensive, or harmful.
